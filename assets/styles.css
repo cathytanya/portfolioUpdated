@@ -107,7 +107,7 @@ h3{
 .row {
     display: flex;
   }
-.column {
+.column{
   flex: 33.33%;
   padding: 5px;
 }  
@@ -144,6 +144,7 @@ h3{
     text-align: center;
     text-decoration: none;
     border-radius: 50%;
+    display: block;
 }
 
 /*when curser hovers over the icons they become faded*/
