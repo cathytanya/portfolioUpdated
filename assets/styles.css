@@ -141,7 +141,7 @@ h3{
 /*attributes for the contact me icons*/
 .fa {
     padding: 50px;
-    text-align: center;
+    margin: auto;
     text-decoration: none;
     border-radius: 50%;
     display: block;
@@ -161,6 +161,11 @@ h3{
 .fa-github{
     background: black;
     color: white;
+}
+/* make the text look more visible */
+#email{
+    font-size: large;
+    font-weight: bold;
 }
 
 /* the media query is to change the background of the body when the site reaches the following width ranges */
