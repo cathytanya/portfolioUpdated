@@ -84,6 +84,10 @@ h2{
     font-size: 50px;
     text-align: center;
 }
+h3,
+.link{
+    text-align: center;
+}
 .me{
     position: relative;
     display: block;
@@ -124,6 +128,13 @@ h2{
 #codeQuiz:hover,
 #dayPlanner:hover{
     transform: scale(1.1); 
+}
+#boolink,
+#busilink,
+#passwordlink,
+#codeQuizlink,
+#dayPlannerlin{
+    text-align: center;
 }
 /*attributes for the contact me icons*/
 .fa {
