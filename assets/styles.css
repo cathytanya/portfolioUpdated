@@ -99,23 +99,23 @@ h2{
     background-color: var(--white);
 }
 /* the apps will appear in block formation */
-.boo,
-.busi,
-.password,
-.codeQuiz,
-.dayPlanner{
+#boo,
+#busi,
+#password,
+#codeQuiz,
+#dayPlanner{
     display: table;
     margin: auto;
     border-radius: 10%;
     border: 5px solid var(--cran);
 }
 /**makes the curser zoom in or the image when it passes over it*/
-.busi:hover,
-.boo:hover,
-.me:hover,
-.password:hover,
-.codeQuiz:hover,
-.dayPlanner:hover{
+#busi:hover,
+#boo:hover,
+#me:hover,
+#password:hover,
+#codeQuiz:hover,
+#dayPlanner:hover{
     transform: scale(1.1); 
 }
 /*attributes for the contact me icons*/
