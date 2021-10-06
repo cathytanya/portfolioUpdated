@@ -16,3 +16,6 @@ It should demonstrate what individuals have learned in the class.
     - Link to the GitHub repo
     - Screenshot of the deployed application
 - Have a polished, mobile responsive user interface
+
+## Screenshot
+![](cover.PNG)
